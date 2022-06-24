@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.fef4bcf1.css",
+    "main.js": "/todo-list/static/js/main.195c04f6.js",
+    "static/media/oriental-tiles.png": "/todo-list/static/media/oriental-tiles.eb925fbd4b61c241aacd.png",
+    "static/media/webb-dark.png": "/todo-list/static/media/webb-dark.cc0e3dfa444c3c6e95f9.png",
+    "index.html": "/todo-list/index.html",
+    "main.fef4bcf1.css.map": "/todo-list/static/css/main.fef4bcf1.css.map",
+    "main.195c04f6.js.map": "/todo-list/static/js/main.195c04f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef4bcf1.css",
+    "static/js/main.195c04f6.js"
+  ]
+}
